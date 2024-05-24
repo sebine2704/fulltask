@@ -1,0 +1,26 @@
+*{
+    text-decoration: none;
+}
+header{
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 100px;
+    ul{
+        display: flex;
+        gap: 40px;
+        li{
+            list-style: none;
+        }
+        
+    }
+}
+.icon{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.active{
+    color: red;
+}
