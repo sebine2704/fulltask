@@ -27,7 +27,6 @@ const Awesome = () => {
                 </div>
             ))
         }
-
     </div>
 
   </section>

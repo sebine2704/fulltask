@@ -15,6 +15,7 @@ const Header = () => {
             <li><NavLink to={"/form"} className={(nav)=>nav.isActive? "active": ""}>Form</NavLink></li>
             <li>Catalogs</li>
             <li>Contact</li>
+            <li>Xanim</li>
         </ul>
         <div className='icon'>
         <FaSearch />
